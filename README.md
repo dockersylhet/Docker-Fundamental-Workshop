@@ -3,8 +3,8 @@
 
 - Welcome and Brainstrom ---- 15 min
 - Intro to Docker and its applications---- 30 min
-- Fundamental Python---- 2 hour
-- Using Docker for Developing Python Application---- 3 hour
+- Fundamental Python---- 2 hours
+- Using Docker for Developing Python Application---- 3 hours
 - Lunch Break ----30 min
 - Hackathon : Build your own Python based WebApp ----3 hours
 - Certificate Giving and  discuss about how to contribute on open source projects- 40 min
