@@ -7,7 +7,7 @@
 - Using Docker for Developing Python Application---- 3 hour
 - Lunch Break ----30 min
 - Hackathon : Build your own Python based WebApp ----3 hours
-- Certificate Giving and  discuss about how to contribute on open source projects----- 40 min
+- Certificate Giving and  discuss about how to contribute on open source projects- 40 min
 - Thanks giving ----5 min
 
 
